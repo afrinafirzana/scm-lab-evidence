@@ -10,8 +10,8 @@ To document how a change is tracked using GitHub Issues, branches, pull requests
 ## Traceability Information
 - Issue Number: #1
 - Branch: issue-1-traceability-note
-- Pull Request: To be created
-- Commit: To be recorded after committing
+- Pull Request: #2
+- Commit: 08e9555
 
 ## Change Description
 Created a traceability note to demonstrate the change-control workflow for Practical Activity 2.
