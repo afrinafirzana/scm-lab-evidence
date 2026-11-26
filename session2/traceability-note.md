@@ -1,24 +1,21 @@
-# Session 2 Change Traceability Note
+# Traceability Note
 
-## Change Request
-Issue: #1
-Title: Add traceability note template for Session 2
+| Field | Value |
+|---|---|
+| Change request / Issue | #1 - https://github.com/afrinafirzana/scm-lab-evidence/issues/1 |
+| Branch | issue-1-traceability-note |
+| Pull request | #2 - https://github.com/afrinafirzana/scm-lab-evidence/pull/2 |
+| Reviewer / review evidence | afrinafirzana (self-review comment), 22 November 2026. https://github.com/afrinafirzana/scm-lab-evidence/pull/2 |
+| Merge result | Successfully merged into main, merge commit 296d27f, 22 November 2026 |
+| Affected files | session2/traceability-note.md |
+| Verification | I checked the file to make sure it met the acceptance criteria, reviewed the changes, and confirmed that Issue #1 was closed after merging Pull Request #2. |
 
 ## Purpose
-To document how a change is tracked using GitHub Issues, branches, pull requests, and commits.
 
-## Traceability Information
-- Issue Number: #1
-- Branch: issue-1-traceability-note
-- Pull Request: #2
-- Commit: 08e9555
+To understand how a change can be tracked from an issue to a branch, pull request, review and commit.
 
-## Change Description
-Created a traceability note to demonstrate the change-control workflow for Practical Activity 2.
+## Commit References
 
-## Acceptance Criteria
-- Create the traceability note file.
-- Include the issue number and purpose.
-- Link the change to a branch and pull request.
-- Review and merge the pull request into main.
-
+- Initial commit: 08e9555
+- Updated commit: e7d1305
+- Merge commit: 296d27f
